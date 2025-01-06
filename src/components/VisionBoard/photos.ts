@@ -3,7 +3,7 @@ import type { Photo } from "react-photo-album";
 const breakpoints = [1080, 640, 384, 256, 128, 96, 64, 48];
 
 function assetLink(asset: string) {
-  return `./src/assets/imgs/${asset}`;
+  return `/assets/imgs/${asset}`;
 }
 
 const photos = [
