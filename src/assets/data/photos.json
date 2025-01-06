@@ -1,0 +1,126 @@
+[
+  {
+    "src": "/src/assets/imgs/diet.jpg",
+    "alt": "diet img"
+  },
+  {
+    "src": "/src/assets/imgs/diet2.jpg",
+    "alt":"diet 2 img"
+  },
+  {
+    "src": "/src/assets/imgs/exercise.jpg",
+    "alt":"exercise img"
+  },
+  {
+    "src": "/src/assets/imgs/exercise2.jpg",
+    "alt":"exercise 2 img"
+  },
+  {
+    "src": "/src/assets/imgs/exercise3.jpg",
+    "alt":"exercise 3 img"
+  },
+  {
+    "src": "/src/assets/imgs/house.jpg",
+    "alt":"house img"
+  },
+  {
+    "src": "/src/assets/imgs/house2.jpg",
+    "alt":"house 2 img"
+  },
+  {
+    "src": "/src/assets/imgs/house3.jpg",
+    "alt":"house 3 img"
+  },
+  {
+    "src": "/src/assets/imgs/house4.jpg",
+    "alt":"house 4 img"
+  },
+  {
+    "src": "/src/assets/imgs/instruments.jpg",
+    "alt":"instrument img"
+  },
+  {
+    "src": "/src/assets/imgs/problem-solving.jpg",
+    "alt":"problem solving img"
+  },
+  {
+    "src": "/src/assets/imgs/problem-solving2.jpg",
+    "alt":"problem solving 2 img"
+  },
+  {
+    "src": "/src/assets/imgs/problem-solving3.jpg",
+    "alt":"problem solving 3 img"
+  },
+  {
+    "src": "/src/assets/imgs/problem-solving4.jpg",
+    "alt":"problem solving 4 img"
+  },
+  {
+    "src": "/src/assets/imgs/problem-solving5.jpg",
+    "alt":"problem solving 5 img"
+  },
+  {
+    "src": "/src/assets/imgs/problem-solving6.jpg",
+    "alt":"problem solving 6 img"
+  },
+  {
+    "src": "/src/assets/imgs/react.jpg",
+    "alt":"react img"
+  },
+  {
+    "src": "/src/assets/imgs/read-books.jpg",
+    "alt":"read books img"
+  },
+  {
+    "src": "/src/assets/imgs/read-books2.jpg",
+    "alt":"read books 2 img"
+  },
+  {
+    "src": "/src/assets/imgs/read-books3.jpg",
+    "alt":"read books 3 img"
+  },
+  {
+    "src": "/src/assets/imgs/typing.jpg",
+    "alt":"typing img"
+  },
+  {
+    "src": "/src/assets/imgs/typing2.jpg",
+    "alt":"typing 2 img"
+  },
+  {
+    "src": "/src/assets/imgs/typing3.jpg",
+    "alt":"typing 3 img"
+  },
+  {
+    "src": "/src/assets/imgs/typing4.jpg",
+    "alt":"typing 4 img"
+  },
+  {
+    "src": "/src/assets/imgs/typing5.jpg",
+    "alt":"typing 5 img"
+  },
+  {
+    "src": "/src/assets/imgs/typing6.jpg",
+    "alt":"typing 6 img"
+  },
+  {
+    "src": "/src/assets/imgs/work-on-ideas.jpg",
+    "alt":"work on ideas img"
+  },
+  {
+    "src": "/src/assets/imgs/work-on-ideas2.jpg",
+    "alt":"work on ideas 2 img"
+  },
+  {
+    "src": "/src/assets/imgs/work-on-ideas3.jpg",
+    "alt":"work on ideas 3 img"
+  },
+  {
+    "src": "/src/assets/imgs/work-on-ideas4.jpg",
+    "alt":"work on ideas 4 img"
+  },
+  {
+    "src": "/src/assets/imgs/speaking.jpg",
+    "alt":"speaking img"
+  }
+]
